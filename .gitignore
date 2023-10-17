@@ -1,0 +1,21 @@
+# Node.js and npm
+node_modules/
+package-lock.json
+
+# Editor or IDE-specific files
+.vscode/
+.idea/
+
+# Build or distribution directories
+dist/
+build/
+
+# Log and temporary files
+*.log
+*.tmp
+
+# macOS specific files
+.DS_Store
+
+# Configuration files with sensitive information (adjust as needed)
+config.json
