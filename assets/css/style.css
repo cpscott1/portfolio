@@ -4130,6 +4130,10 @@ img.left {
 /* ====================== [ End Helper Classes  ] ====================== */
 /* ====================== [ Start Responsive ] ====================== */
 @media screen and (max-width: 992px) {
+  .img-phone { /* Adjust the width to your desired size */
+    height: 300px;
+    object-fit: cover; /* Adjust the height accordingly */
+  }
   .md-mb10 {
     margin-bottom: 10px;
   }
